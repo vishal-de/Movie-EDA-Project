@@ -18,6 +18,8 @@ IMDbRating
 RottenTomatoesScore
 Director
 LeadActor
+The dataset used in this project can be downloaded from Kaggle:
+[Movie Dataset for Analytics & Visualization](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)
 
 🎯 Objectives
 Analyze genre-wise box office performance
